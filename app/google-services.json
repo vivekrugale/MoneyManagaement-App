@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "764086956468",
+    "firebase_url": "https://sdp-money-management.firebaseio.com",
+    "project_id": "sdp-money-management",
+    "storage_bucket": "sdp-money-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764086956468:android:c05765bdc2f9b817cd82e1",
+        "android_client_info": {
+          "package_name": "com.example.sdp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764086956468-51ucoubmuro0d589739b2u6tevfuj643.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sdp",
+            "certificate_hash": "b55fe1fe5d8f94b8980f8cbddb760323aed02174"
+          }
+        },
+        {
+          "client_id": "764086956468-l2lu6428ibtqsur522th97gd0ru609ja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ6tNgNvoqBSEow7pHKeOThMJLNkdZ93Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764086956468-l2lu6428ibtqsur522th97gd0ru609ja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
